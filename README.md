@@ -28,4 +28,4 @@ The dataset used for this analysis is available for download at the following li
 
 ### View the Live Dashboard
 Click here to view the interactive dashboard on Tableau Public:
-(https://public.tableau.com/app/profile/ipshita.banerjee/viz/Sales_Book_17577915273040/E-commerceSalesCustomerAnalysisDashboard)
+https://public.tableau.com/app/profile/ipshita.banerjee/viz/Sales_Book_17577915273040/E-commerceSalesCustomerAnalysisDashboard?publish=yes
